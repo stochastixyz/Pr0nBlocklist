@@ -19,6 +19,7 @@
 # Project home page: https://github.com/stochastixyz/Pr0nBlocklist
 # Date: 1/31/2018
 # Unique Domains: 23096
+changed in pycharm
 #===================================================
 
 0.0.0.0 store.adam4adam.com
